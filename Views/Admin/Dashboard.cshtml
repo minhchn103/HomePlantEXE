@@ -1,0 +1,63 @@
+﻿@model HomePlant.ViewModels.AdminDashboardVM
+
+<h2>Dashboard</h2>
+
+<div class="row">
+
+    <div class="col-md-3">
+
+        <div class="card p-3">
+
+            <h3>
+                @Model.UserCount
+            </h3>
+
+            <p>Users</p>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-3">
+
+        <div class="card p-3">
+
+            <h3>
+                @Model.PlantCount
+            </h3>
+
+            <p>Plants</p>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-3">
+
+        <div class="card p-3">
+
+            <h3>
+                @Model.ArticleCount
+            </h3>
+
+            <p>Articles</p>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-3">
+
+        <div class="card p-3">
+
+            <h3>
+                @Model.DiagnosisCount
+            </h3>
+
+            <p>AI Diagnosis</p>
+
+        </div>
+
+    </div>
+
+</div>

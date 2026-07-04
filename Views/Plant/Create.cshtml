@@ -1,0 +1,44 @@
+﻿@model HomePlant.Models.PlantModel
+
+<h2>Add Plant</h2>
+
+<form method="post">
+
+    <div class="mb-3">
+        <label>Plant Name</label>
+
+        <input asp-for="Nickname"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Location</label>
+
+        <input asp-for="Location"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Status</label>
+
+        <select asp-for="CurrentStatus"
+                class="form-control">
+            <option>Healthy</option>
+            <option>Warning</option>
+            <option>Disease</option>
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label>Note</label>
+
+        <textarea asp-for="Note"
+                  class="form-control">
+        </textarea>
+    </div>
+
+    <button class="btn btn-success">
+        Save
+    </button>
+
+</form>

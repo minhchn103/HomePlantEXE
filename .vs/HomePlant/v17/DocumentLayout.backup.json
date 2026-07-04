@@ -1,0 +1,933 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\HomePlant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\library\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\library\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\services\\firebaseauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:services\\firebaseauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\models\\plantsamplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:models\\plantsamplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\models\\caremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:models\\caremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\models\\diseasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:models\\diseasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\services\\plantsampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:services\\plantsampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\seed\\plant_library_seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:seed\\plant_library_seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\seed\\firebase-key.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:seed\\firebase-key.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\seed\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:seed\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\firebase\\firebase-key.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:firebase\\firebase-key.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\homeplant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:homeplant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\services\\seeddataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:services\\seeddataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\services\\plantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:services\\plantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\viewmodels\\admindashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:viewmodels\\admindashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\models\\articlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:models\\articlemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\plant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\plant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\plant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\plant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\carelog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\carelog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\carelog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\carelog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\controllers\\carelogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:controllers\\carelogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\services\\carelogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:services\\carelogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\models\\carelogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:models\\carelogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\plant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\plant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\controllers\\plantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:controllers\\plantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\services\\firestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:services\\firestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\models\\plantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:models\\plantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|c:\\users\\admin\\homeplant\\viewmodels\\profilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777D0F1A-8C16-E2BC-0272-54E560576EEB}|HomePlant.csproj|solutionrelative:viewmodels\\profilevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAALMAAAAAAAAAAAAYwMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T19:39:36.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T19:49:26.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:03:26.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:44:29.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAHoAAAAAAAAAAADwv6AAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-29T08:56:51.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:50:05.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T19:51:26.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T19:51:58.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Library\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Library\\Details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Library\\Details.cshtml",
+              "RelativeToolTip": "Views\\Library\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-29T08:38:02.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FirebaseAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Services\\FirebaseAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\FirebaseAuthService.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Services\\FirebaseAuthService.cs",
+              "RelativeToolTip": "Services\\FirebaseAuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:49:51.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Library\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Library\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Library\\Index.cshtml",
+              "RelativeToolTip": "Views\\Library\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T19:51:06.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:04:21.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:48:48.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:48:36.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "Controllers\\LibraryController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T19:50:25.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlantSampleModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Models\\PlantSampleModel.cs",
+              "RelativeDocumentMoniker": "Models\\PlantSampleModel.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Models\\PlantSampleModel.cs",
+              "RelativeToolTip": "Models\\PlantSampleModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:44:42.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CareModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Models\\CareModel.cs",
+              "RelativeDocumentMoniker": "Models\\CareModel.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Models\\CareModel.cs",
+              "RelativeToolTip": "Models\\CareModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T08:39:10.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DiseaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Models\\DiseaseModel.cs",
+              "RelativeDocumentMoniker": "Models\\DiseaseModel.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Models\\DiseaseModel.cs",
+              "RelativeToolTip": "Models\\DiseaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T08:38:57.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlantSampleService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Services\\PlantSampleService.cs",
+              "RelativeDocumentMoniker": "Services\\PlantSampleService.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Services\\PlantSampleService.cs",
+              "RelativeToolTip": "Services\\PlantSampleService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:03:40.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:46:23.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "plant_library_seed.js",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Seed\\plant_library_seed.js",
+              "RelativeDocumentMoniker": "Seed\\plant_library_seed.js",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Seed\\plant_library_seed.js",
+              "RelativeToolTip": "Seed\\plant_library_seed.js",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAANgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-16T19:56:45.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Seed\\package.json",
+              "RelativeDocumentMoniker": "Seed\\package.json",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Seed\\package.json",
+              "RelativeToolTip": "Seed\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T19:59:21.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "firebase-key.json",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Seed\\firebase-key.json",
+              "RelativeDocumentMoniker": "Seed\\firebase-key.json",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Seed\\firebase-key.json",
+              "RelativeToolTip": "Seed\\firebase-key.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T20:01:24.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "firebase-key.json",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Firebase\\firebase-key.json",
+              "RelativeDocumentMoniker": "Firebase\\firebase-key.json",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Firebase\\firebase-key.json",
+              "RelativeToolTip": "Firebase\\firebase-key.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T15:18:48.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T19:47:44.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T19:47:43.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T19:39:40.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomePlant.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\HomePlant.csproj",
+              "RelativeDocumentMoniker": "HomePlant.csproj",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\HomePlant.csproj",
+              "RelativeToolTip": "HomePlant.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-03T15:13:09.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlantService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Services\\PlantService.cs",
+              "RelativeDocumentMoniker": "Services\\PlantService.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Services\\PlantService.cs",
+              "RelativeToolTip": "Services\\PlantService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:46:13.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvz4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T15:04:53.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Users.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T15:05:08.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Services\\ArticleService.cs",
+              "RelativeDocumentMoniker": "Services\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Services\\ArticleService.cs",
+              "RelativeToolTip": "Services\\ArticleService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:00:13.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SeedDataService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Services\\SeedDataService.cs",
+              "RelativeDocumentMoniker": "Services\\SeedDataService.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Services\\SeedDataService.cs",
+              "RelativeToolTip": "Services\\SeedDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T19:35:56.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:06:08.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:43:57.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T14:43:39.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminDashboardVM.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\ViewModels\\AdminDashboardVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminDashboardVM.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\ViewModels\\AdminDashboardVM.cs",
+              "RelativeToolTip": "ViewModels\\AdminDashboardVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:04:07.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Article\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Article\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Article\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Article\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T15:02:40.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Article\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Article\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Article\\Create.cshtml",
+              "RelativeToolTip": "Views\\Article\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T15:02:10.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Article\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Article\\Details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Article\\Details.cshtml",
+              "RelativeToolTip": "Views\\Article\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T15:01:31.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "Controllers\\ArticleController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:00:47.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "Views\\Article\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvzgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T15:01:13.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ArticleModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Models\\ArticleModel.cs",
+              "RelativeDocumentMoniker": "Models\\ArticleModel.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Models\\ArticleModel.cs",
+              "RelativeToolTip": "Models\\ArticleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:45:25.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\CareLog\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\CareLog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\CareLog\\Create.cshtml",
+              "RelativeToolTip": "Views\\CareLog\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvzMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T14:58:53.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Plant\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Plant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Plant\\Index.cshtml",
+              "RelativeToolTip": "Views\\Plant\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvysAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T14:47:17.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Plant\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Plant\\Details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Plant\\Details.cshtml",
+              "RelativeToolTip": "Views\\Plant\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T14:53:59.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\CareLog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CareLog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\CareLog\\Index.cshtml",
+              "RelativeToolTip": "Views\\CareLog\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvzcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T14:58:35.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CareLogController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Controllers\\CareLogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CareLogController.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Controllers\\CareLogController.cs",
+              "RelativeToolTip": "Controllers\\CareLogController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:58:04.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CareLogService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Services\\CareLogService.cs",
+              "RelativeDocumentMoniker": "Services\\CareLogService.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Services\\CareLogService.cs",
+              "RelativeToolTip": "Services\\CareLogService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:57:40.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Plant\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Plant\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Plant\\Create.cshtml",
+              "RelativeToolTip": "Views\\Plant\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvysAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T14:56:54.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PlantController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Controllers\\PlantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlantController.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Controllers\\PlantController.cs",
+              "RelativeToolTip": "Controllers\\PlantController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:46:39.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CareLogModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Models\\CareLogModel.cs",
+              "RelativeDocumentMoniker": "Models\\CareLogModel.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Models\\CareLogModel.cs",
+              "RelativeToolTip": "Models\\CareLogModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:45:14.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FirestoreService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Services\\FirestoreService.cs",
+              "RelativeDocumentMoniker": "Services\\FirestoreService.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Services\\FirestoreService.cs",
+              "RelativeToolTip": "Services\\FirestoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:45:59.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PlantModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Models\\PlantModel.cs",
+              "RelativeDocumentMoniker": "Models\\PlantModel.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Models\\PlantModel.cs",
+              "RelativeToolTip": "Models\\PlantModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:45:00.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T14:50:53.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T14:50:33.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProfileVM.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\HomePlant\\ViewModels\\ProfileVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProfileVM.cs",
+              "ToolTip": "C:\\Users\\admin\\HomePlant\\ViewModels\\ProfileVM.cs",
+              "RelativeToolTip": "ViewModels\\ProfileVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:49:07.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿@model HomePlant.Models.PlantModel
+
+<h2>@Model.Nickname</h2>
+
+<div class="card">
+    <div class="card-body">
+
+        <p>
+            <strong>Location:</strong>
+            @Model.Location
+        </p>
+
+        <p>
+            <strong>Status:</strong>
+            @Model.CurrentStatus
+        </p>
+
+        <p>
+            <strong>Note:</strong>
+            @Model.Note
+        </p>
+
+        <hr />
+
+        <a asp-controller="CareLog"
+           asp-action="Index"
+           asp-route-plantId="@Model.Id"
+           class="btn btn-primary">
+            View Care History
+        </a>
+    </div>
+</div>

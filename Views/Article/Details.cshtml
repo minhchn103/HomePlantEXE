@@ -1,0 +1,17 @@
+﻿@model HomePlant.Models.ArticleModel
+
+<h2>
+    @Model.Title
+</h2>
+
+<hr />
+
+@if (!string.IsNullOrEmpty(Model.ThumbnailUrl))
+{
+    <img src="@Model.ThumbnailUrl"
+         class="img-fluid mb-3" />
+}
+
+<div>
+    @Html.Raw(Model.Content)
+</div>
