@@ -63,15 +63,15 @@ if (!app.Environment.IsDevelopment())
 //    app.UseDeveloperExceptionPage();
 //}
 
-if (app.Environment.IsDevelopment())
-{
-    using var scope = app.Services.CreateScope();
+//if (app.Environment.IsDevelopment())
+//{
+//    using var scope = app.Services.CreateScope();
 
-    var seed = scope.ServiceProvider
-        .GetRequiredService<SeedDataService>();
+//    var seed = scope.ServiceProvider
+//        .GetRequiredService<SeedDataService>();
 
-    await seed.SeedPlantSamples();
-}
+//    await seed.SeedPlantSamples();
+//}
 
 app.UseHttpsRedirection();
 
