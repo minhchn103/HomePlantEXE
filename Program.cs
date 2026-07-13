@@ -21,6 +21,10 @@ builder.Environment.ContentRootPath,
 "Firebase",
 "firebase-key.json");
 
+Console.WriteLine($"Credential path: {credentialPath}");
+Console.WriteLine($"File exists: {File.Exists(credentialPath)}");
+Console.WriteLine($"ProjectId: {builder.Configuration["Firebase:ProjectId"]}");
+
 var credential =
 GoogleCredential.FromFile(credentialPath);
 
@@ -58,7 +62,6 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-
 if (app.Environment.IsDevelopment())
 {
     using var scope = app.Services.CreateScope();
@@ -68,6 +71,7 @@ if (app.Environment.IsDevelopment())
 
     await seed.SeedPlantSamples();
 }
+
 
 app.UseHttpsRedirection();
 
