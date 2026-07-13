@@ -63,15 +63,15 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     using var scope = app.Services.CreateScope();
 
     var seed = scope.ServiceProvider
         .GetRequiredService<SeedDataService>();
 
     await seed.SeedPlantSamples();
-}
+//}
 
 
 app.UseHttpsRedirection();
