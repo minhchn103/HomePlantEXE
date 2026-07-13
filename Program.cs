@@ -58,9 +58,12 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-using (var scope = app.Services.CreateScope())
+if (app.Environment.IsDevelopment())
 {
-    var seed = scope.ServiceProvider.GetRequiredService<SeedDataService>();
+    using var scope = app.Services.CreateScope();
+
+    var seed = scope.ServiceProvider
+        .GetRequiredService<SeedDataService>();
 
     await seed.SeedPlantSamples();
 }
