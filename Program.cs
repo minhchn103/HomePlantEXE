@@ -58,11 +58,6 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-if (!app.Environment.IsDevelopment())
-{
-    app.UseDeveloperExceptionPage();
-}
-
 if (app.Environment.IsDevelopment())
 {
     using var scope = app.Services.CreateScope();
