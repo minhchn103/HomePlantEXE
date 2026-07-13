@@ -52,10 +52,15 @@ builder.Services.AddScoped<SeedDataService>();
 
 var app = builder.Build();
 
+//if (!app.Environment.IsDevelopment())
+//{
+//    app.UseExceptionHandler("/Home/Error");
+//    app.UseHsts();
+//}
+
 if (!app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Home/Error");
-    app.UseHsts();
+    app.UseDeveloperExceptionPage();
 }
 
 if (app.Environment.IsDevelopment())
