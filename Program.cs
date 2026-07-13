@@ -28,6 +28,20 @@ Console.WriteLine($"ProjectId: {builder.Configuration["Firebase:ProjectId"]}");
 var credential =
 GoogleCredential.FromFile(credentialPath);
 
+try
+{
+    var token = await credential.UnderlyingCredential
+        .GetAccessTokenForRequestAsync();
+
+    Console.WriteLine("TOKEN OK");
+    Console.WriteLine(token.Substring(0, 20));
+}
+catch (Exception ex)
+{
+    Console.WriteLine("TOKEN ERROR");
+    Console.WriteLine(ex.ToString());
+}
+
 if (FirebaseApp.DefaultInstance == null)
 {
     FirebaseApp.Create(new AppOptions
